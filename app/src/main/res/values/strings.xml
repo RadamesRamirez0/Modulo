@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">modulo</string>
+    <string name="welUser">Welcome user!</string>
+    <string name="loginButton">Log in</string>
+    <string name="edtUser">Username</string>
+    <string name="edtPass">Password</string>
+    <string name="txvSN">Serial Number:&#160;</string>
+    <string name="txvName">Name:&#160;</string>
+    <string name="txvOrigin">Origin:&#160;</string>
+    <string name="txvDestiny">Destiny:&#160;</string>
+    <string name="txvMGW" translatable="false">MGW:&#160;</string>
+    <string name="txvHumidity">Humidity:&#160;</string>
+    <string name="txvTemp">Temperature:&#160;</string>
+    <string name="txvHeatIndex">Heat Index:&#160;</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_employee">Employees</string>
+    <string name="action_container">Containers</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string-array name="Spinner">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+
+</resources>
